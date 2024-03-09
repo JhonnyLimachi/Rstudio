@@ -31,3 +31,10 @@ Otro aspecto destacado del uso de RStudio en salud e investigación es su comuni
   <a href="https://www.linkedin.com/in/jhonny-limachi-choque-md-mph-mhr-697bb5256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+Links de consulta:
+
+https://r4ds.hadley.nz/16-datetimes.html
+
+https://quarto.org/
