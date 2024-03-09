@@ -35,6 +35,6 @@ Otro aspecto destacado del uso de RStudio en salud e investigación es su comuni
 
 Links de consulta:
 
-https://r4ds.hadley.nz/16-datetimes.html
+https://es.r4ds.hadley.nz/16-datetimes.html
 
 https://quarto.org/
