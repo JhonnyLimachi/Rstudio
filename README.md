@@ -38,3 +38,5 @@ Links de consulta:
 https://es.r4ds.hadley.nz/16-datetimes.html
 
 https://quarto.org/
+
+https://mauriciovancine.github.io/talk/video-geocast-apero/
