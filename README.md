@@ -37,6 +37,6 @@ Links de consulta:
 
 R Para Ciencia de Datos: https://es.r4ds.hadley.nz/16-datetimes.html
 
-https://quarto.org/
+Welcome to Quarto: https://quarto.org/
 
 https://mauriciovancine.github.io/talk/video-geocast-apero/
