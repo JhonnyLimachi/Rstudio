@@ -39,4 +39,4 @@ R Para Ciencia de Datos: https://es.r4ds.hadley.nz/16-datetimes.html
 
 Welcome to Quarto: https://quarto.org/
 
-https://mauriciovancine.github.io/talk/video-geocast-apero/
+Conhecendo Hugo Apéro: fazendo blogs com blogdown e R: https://mauriciovancine.github.io/talk/video-geocast-apero/
