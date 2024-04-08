@@ -35,7 +35,7 @@ Además del aspecto destacado en el uso de RStudio en salud e investigación es 
 
 Links de consulta:
 
-https://es.r4ds.hadley.nz/16-datetimes.html
+R Para Ciencia de Datos: https://es.r4ds.hadley.nz/16-datetimes.html
 
 https://quarto.org/
 
