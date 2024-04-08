@@ -8,7 +8,7 @@ RStudio es una herramienta indispensable para el análisis de datos en el ámbit
 
 Utilizar RStudio en el análisis de datos de salud es su capacidad para integrarse con una variedad de paquetes y herramientas especializadas. Esto permite a los investigadores acceder a algoritmos avanzados de análisis y técnicas de modelado que son fundamentales para comprender fenómenos complejos en la salud pública, epidemiología, medicina clínica y otros campos relacionados. Además, la flexibilidad de RStudio permite a los usuarios personalizar sus análisis y adaptarlos a las necesidades específicas de sus proyectos de investigación.
 
-Además del aspecto destacado en el uso de RStudio en salud e investigación es su comunidad activa y colaborativa. Los usuarios tienen acceso a una amplia gama de recursos, incluyendo tutoriales, documentación detallada y foros de discusión, lo que facilita el aprendizaje y la resolución de problemas. Además, la capacidad de compartir código y análisis reproducibles promueve la transparencia y la colaboración en la investigación científica, lo que contribuye a la calidad y la fiabilidad de los resultados en el ámbito de la salud. 
+Además del aspecto destacado en el uso de RStudio en salud e investigación es su comunidad activa y colaborativa. Los usuarios tienen acceso a una amplia gama de recursos, incluyendo tutoriales, documentación detallada y foros de discusión, lo que facilita el aprendizaje y la resolución de problemas. Empero, la capacidad de compartir código y análisis reproducibles promueve la transparencia y la colaboración en la investigación científica, lo que contribuye a la calidad y la fiabilidad de los resultados en el ámbito de la salud. 
 
 
 <div style="display: inline_block"><br>
